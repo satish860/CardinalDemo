@@ -157,11 +157,11 @@
     <Content Include="App\durandal\widget.js" />
     <Content Include="App\main.js" />
     <Content Include="App\viewmodels\scan.js" />
-    <Content Include="App\views\Home.html" />
-    <Content Include="App\viewmodels\Home.js" />
-    <Content Include="App\viewmodels\Shell.js" />
+    <Content Include="App\views\home.html" />
+    <Content Include="App\viewmodels\home.js" />
+    <Content Include="App\viewmodels\shell.js" />
     <Content Include="App\views\scan.html" />
-    <Content Include="App\views\Shell.html" />
+    <Content Include="App\views\shell.html" />
     <Content Include="Content\animate.css" />
     <Content Include="Content\bootstrap-responsive.css" />
     <Content Include="Content\bootstrap-responsive.min.css" />
@@ -172,6 +172,7 @@
     <Content Include="Content\images\glyphicons-halflings-white.png" />
     <Content Include="Content\images\glyphicons-halflings.png" />
     <Content Include="Content\images\logo.png" />
+    <Content Include="Content\images\samsung-galaxy-s3.jpeg" />
     <Content Include="Content\metro-bootstrap.css" />
     <Content Include="Content\style.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
