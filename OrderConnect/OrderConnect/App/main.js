@@ -16,6 +16,6 @@ define(function (require) {
         viewLocator.useConvention();
         router.useConvention();
         router.mapNav('Home');
-        app.setRoot('viewmodels/Shell', 'entrance');
+        app.setRoot('viewmodels/shell', 'entrance');
     });
 });

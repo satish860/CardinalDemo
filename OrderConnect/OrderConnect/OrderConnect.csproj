@@ -156,11 +156,17 @@
     <Content Include="App\durandal\viewModelBinder.js" />
     <Content Include="App\durandal\widget.js" />
     <Content Include="App\main.js" />
+    <Content Include="App\viewmodels\scan.js" />
     <Content Include="App\views\Home.html" />
     <Content Include="App\viewmodels\Home.js" />
     <Content Include="App\viewmodels\Shell.js" />
+    <Content Include="App\views\scan.html" />
     <Content Include="App\views\Shell.html" />
     <Content Include="Content\animate.css" />
+    <Content Include="Content\bootstrap-responsive.css" />
+    <Content Include="Content\bootstrap-responsive.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\durandal.css" />
     <Content Include="Content\images\bg.png" />
     <Content Include="Content\images\glyphicons-halflings-white.png" />
