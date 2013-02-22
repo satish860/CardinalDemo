@@ -156,6 +156,8 @@
     <Content Include="App\durandal\viewModelBinder.js" />
     <Content Include="App\durandal\widget.js" />
     <Content Include="App\main.js" />
+    <Content Include="App\views\Home.html" />
+    <Content Include="App\viewmodels\Home.js" />
     <Content Include="App\viewmodels\Shell.js" />
     <Content Include="App\views\Shell.html" />
     <Content Include="Content\animate.css" />

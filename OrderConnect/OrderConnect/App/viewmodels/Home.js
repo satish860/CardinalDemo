@@ -2,12 +2,11 @@
 
     var router = require('durandal/plugins/router'),
         system = require('durandal/system'),
-        home = require('viewmodels/home');
+        app = require('durandal/app');
     return {
-        homeViewModel:home,
         activate: function () {
-            system.log("Shell has been activated");
-            router.activeItem = home;
+            system.log(router.activeItem());
+            system.log("Home has been activated");
         }
     };
 });
