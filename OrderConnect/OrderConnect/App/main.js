@@ -15,7 +15,7 @@ define(function (require) {
     app.start().then(function () {
         viewLocator.useConvention();
         router.useConvention();
-       
+        router.mapNav('Home');
         app.setRoot('viewmodels/Shell', 'entrance');
     });
 });
